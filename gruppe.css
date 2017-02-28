@@ -1,0 +1,20 @@
+body {
+margin: 15px;
+}
+
+
+svg {
+width: 700px;
+height: 215px;
+top: 200px;
+}
+
+
+#text {
+	left: 10px;
+	top: 10px;
+	width: 200px;
+	border: 1px solid #000;
+	padding: 10px;
+    background: rgba(255,255,255,.8);
+}
